@@ -1,0 +1,5 @@
+[swiftly]
+auth_user = %NAME%
+auth_key = %KEY%
+auth_url = %URL%
+region = %REGION%
